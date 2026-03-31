@@ -1,0 +1,1 @@
+**GitHub Direct** 是一款专为 Android 平台设计的轻量级应用/Xposed（LibXposed）模块，旨在解决大陆地区访问 GitHub（包括代码仓库、API、Raw文件、静态资源等）时的 DNS 污染和 SNI 阻断问题。
