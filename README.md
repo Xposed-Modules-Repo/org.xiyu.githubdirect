@@ -1,5 +1,6 @@
 # GitHub Direct
 
+[![Source Repo](https://img.shields.io/badge/Source%20Repo-Github--direct-blue?style=flat-square)](https://github.com/FxxkLocation/Github-direct)
 [![Release](https://img.shields.io/github/v/release/FxxkLocation/Github-direct?style=flat-square)](https://github.com/FxxkLocation/Github-direct/releases)
 [![Stars](https://img.shields.io/github/stars/FxxkLocation/Github-direct?style=flat-square)](https://github.com/FxxkLocation/Github-direct/stargazers)
 [![Forks](https://img.shields.io/github/forks/FxxkLocation/Github-direct?style=flat-square)](https://github.com/FxxkLocation/Github-direct/network/members)
